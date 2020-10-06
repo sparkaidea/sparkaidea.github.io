@@ -32,7 +32,7 @@ github_username:  sparkaidea
 linkedin_username: sparkaidea-club
 
 # Build settings
-theme: jekyll-theme-minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
