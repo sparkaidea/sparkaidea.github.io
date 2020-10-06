@@ -32,7 +32,7 @@ github_username:  sparkaidea
 linkedin_username: sparkaidea-club
 
 # Build settings
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
