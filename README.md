@@ -20,3 +20,17 @@ categories: test blog
   
 3.	Add the body of the post from the next line.
 4. You can explore more features of .md file from link (https://guides.github.com/features/mastering-markdown/)
+
+# Suggested Topics
+
+Success factors of any AI/ML project
+Enabling society in AI world
+What is Ethical AI and why it is required
+Estimation methodology of AI/ML project
+The good, the bad and the ugly of Machine Learning / Deep Learning
+Article/journal review
+AI for beginners
+Suitable reporting tools for AI
+The AI/ML workflow
+AI in healthcare and latest trends
+10 things what must be present in a AI/ML profile 
