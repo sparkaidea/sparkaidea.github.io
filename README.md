@@ -1,6 +1,6 @@
-# Website for Sparkaidea Blogspot
+# Sparkaidea Blogspot
 
-# Steps to post blogs in sparkaidea/sparkaidea.github.io
+# Steps to post blogs here
 1.	Select gh-pages branch in the repository.
 2.	Navigate to sparkaidea.github.io/docs/_posts/ and add <filename>.md file in this location
   
