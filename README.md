@@ -17,4 +17,5 @@ categories: test blog
 ---
 ```
 ‘Layout’ should be post for all blogs added here, ‘title’ added the title of your blog post, ‘date’ add the publishing date for this post, ‘author’ add your name in this post, define the category of your post in the ‘categories’ section.
+  
 3.	Add the body of the post from the next line.
