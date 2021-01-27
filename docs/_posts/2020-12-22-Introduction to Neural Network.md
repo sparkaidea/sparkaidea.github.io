@@ -13,13 +13,13 @@ Well, to answer this question I would like to digress from the topic to know wha
 
 ## Analogy between a Biological Neuron and Neural Network
 
-![Image](https://github.com/sparkaidea/sparkaidea.github.io/blob/gh-pages/images/Biological_Neuron.png)
+![Image](https://raw.githubusercontent.com/sparkaidea/sparkaidea.github.io/gh-pages/images/Biological_Neuron.png)
 
 Let’s us imagine the functionality of a biological neuron when someone pinches you. The dendrites of your neuron carry the sensation to the cell body like an input. These inputs then get processed by the cell and the axon carries the output, which is actually your reaction to the pinch.
 
 Similar, functionality of neural network can be observed in the below diagram, which can help us predict the future of stock market or estimation of real estate property in future. The inputs (x0, x1, ……) are the considered factors for predicting the price of the property for example number of bedrooms, area of the property, location etc and each of these have an assigned weight which signifies the importance of these factors in determining the output, i.e, the price. Here, processing will employ the summation of all the inputs multiplied with their weights and the calculated output will the predicted price.
 
-![Image](https://github.com/sparkaidea/sparkaidea.github.io/blob/gh-pages/images/Neural%20Network.png)
+![Image](https://raw.githubusercontent.com/sparkaidea/sparkaidea.github.io/gh-pages/images/Neural%20Network.png)
 
 This is the simplest explanation of how neural network works. A lot of mathematical theory and calculations involved in this process. Also, there are multiple hidden layers between these input and output layer, making this process quite complex in nature but it improves the accuracy in prediction.
 
